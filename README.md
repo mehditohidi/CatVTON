@@ -1,4 +1,4 @@
-# 🐈 CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models
+# 🐈 CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Model
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="http://arxiv.org/abs/2407.15886" style="margin: 0 2px;">
